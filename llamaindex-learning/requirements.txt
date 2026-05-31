@@ -1,0 +1,5 @@
+llama-index>=0.12.0
+llama-index-llms-openai-like
+llama-index-embeddings-openai
+qdrant-client
+python-dotenv
